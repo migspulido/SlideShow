@@ -1,0 +1,8 @@
+C:\Users\Migs\Documents\Visual Studio 2005\Projects\SlideShow\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\Migs\Documents\Visual Studio 2005\Projects\SlideShow\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\Migs\Documents\Visual Studio 2005\Projects\SlideShow\SlideShow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Migs\Documents\Visual Studio 2005\Projects\SlideShow\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Users\Migs\Documents\Visual Studio 2005\Projects\SlideShow\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Users\Migs\Documents\Visual Studio 2005\Projects\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+C:\Users\Migs\Documents\Visual Studio 2005\Projects\SlideShow\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\Migs\Documents\Visual Studio 2005\Projects\SlideShow\SlideShow\obj\Debug\SlideShow.pdb
